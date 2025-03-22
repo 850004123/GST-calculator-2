@@ -51,7 +51,7 @@ namespace GST_calculator_2
                 Console.WriteLine("Total with GST: " + totalgst);
             }
             else
-            {
+            {   // Display error message if user enters invalid choice
                 Console.WriteLine("Invalid choice");
             }
 
